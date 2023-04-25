@@ -1,5 +1,4 @@
 Lavda,
 Chutya,
 Randi,
-Bhosale,
-Dhakka,
+Bhosdike,
